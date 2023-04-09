@@ -1,0 +1,49 @@
+[
+  {
+    "productos": [
+      {
+        "idProduct": 25,
+        "cantidad": 10
+      },
+      {
+        "idProduct": 15,
+        "cantidad": 12
+      },
+      {
+        "idProduct": 18,
+        "cantidad": 120
+      }
+    ],
+    "id": 1
+  },
+  {
+    "productos": [
+      {
+        "idProduct": 125,
+        "cantidad": 110
+      },
+      {
+        "idProduct": 115,
+        "cantidad": 6
+      },
+      {
+        "idProduct": 118,
+        "cantidad": 1120
+      }
+    ],
+    "id": 2
+  },
+  {
+    "productos": [
+      {
+        "idProduct": 225,
+        "cantidad": 210
+      },
+      {
+        "idProduct": 215,
+        "cantidad": 212
+      }
+    ],
+    "id": 3
+  }
+]
